@@ -9,10 +9,4 @@ function findNemo(){
         console.log(`Nemo foi encontrado na  posição ${result}`)
     }
 }
-
 findNemo()
-
-
-
-
-
