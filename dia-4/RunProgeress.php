@@ -14,5 +14,4 @@ function runProgress(array $arr)
 
     echo "total day of progress: " . $daysOfProgress;
 }
-
 runProgress([10, 11, 12, 9, 10]);

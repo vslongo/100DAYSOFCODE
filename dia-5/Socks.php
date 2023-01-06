@@ -7,7 +7,6 @@ function countSocks($string){
         die;
     }
 
-
     $letras = str_split(strtoupper($string));
     $meias = 0;
     foreach ($letras as $letra){
@@ -16,7 +15,6 @@ function countSocks($string){
             $meias++;
         }
     }
-
     return floor(($meias / 2));
 }
 

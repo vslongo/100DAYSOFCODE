@@ -13,5 +13,4 @@ function proximo_primo($n) {
       }
     }
   }
-
   echo(proximo_primo("6"));
