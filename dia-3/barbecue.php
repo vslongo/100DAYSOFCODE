@@ -12,5 +12,4 @@ foreach ($skewers as $skewer) {
     $vegetarian_skewer_count++;
   }
 }
-
 echo "Número de espetos vegetarianos: " . $vegetarian_skewer_count;
